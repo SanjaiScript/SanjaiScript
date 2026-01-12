@@ -2,38 +2,40 @@
 
 # 👋 Hi, I'm Sanjai Kumar M
 
-### Embedded Systems Trainee | C | Linux Internals | Firmware Developer
-
-<img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded-2ea44f"/>
-<img src="https://img.shields.io/badge/Firmware-purple"/>
-<img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"/>
-
 </div>
 
 ---
 
 ## 🚀 About Me
-I’m an **embedded systems enthusiast** passionate about low-level programming, Linux internals, and firmware development.  
-I enjoy **designing efficient embedded solutions**, debugging system-level issues, and exploring how software interacts with hardware.  
+I’m an **Embedded Systems Trainee** passionate about **low-level programming, Linux internals, and firmware development**.  
+I enjoy **building efficient embedded solutions, debugging system-level issues, and exploring hardware-software interactions**.
 
-- 🎓 Currently training at **Emertxe Bangalore** in Embedded Systems.  
-- 💡 Interested in **RTOS, Device Drivers, and Linux Kernel Development**.  
-- 🔧 Skilled in **C, C++, Linux system programming, and firmware development**.  
+Currently, I am training at **Emertxe Bangalore**, focusing on **C, C++, Linux kernel, device drivers, and firmware projects**.
 
 ---
 
-## 🧰 Tech Stack
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+## 🧰 Skills & Tools
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded-green)
 ![Firmware](https://img.shields.io/badge/Firmware-purple)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![RTOS](https://img.shields.io/badge/RTOS-blueviolet)
+
+---
+
+## 📂 Projects
+- **MiniShell – Interactive Unix-like Shell**  
+  Developed a **custom command-line shell** supporting built-in and external commands.  
+  [View on GitHub](https://github.com/SanjaiScript/MiniShell)
+
+- **Embedded Firmware Projects**  
+  Designed **microcontroller-based firmware** for sensors, peripherals, and low-power devices.
+
+- **Open Source Contributions**  
+  Worked on **Linux kernel modules** and system-level debugging tools.
 
 ---
 
@@ -44,26 +46,9 @@ I enjoy **designing efficient embedded solutions**, debugging system-level issue
 
 ---
 
-## 📂 Projects & Contributions
-Here are some highlights of my work:
-
-- **MiniShell – Interactive Unix-like Shell**  
-  Developed a custom command-line shell supporting built-in and external commands.  
-  [GitHub Link](https://github.com/SanjaiScript/MiniShell)
-
-- **Embedded Firmware Projects**  
-  Worked on microcontroller-based firmware for peripheral control, sensor integration, and low-power operation.  
-
-- **Open Source Contributions**  
-  Contributed to Linux kernel modules and debugging tools.
-
----
-
 ## 📊 GitHub Stats
 ![Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjaiScript&show_icons=true&theme=tokyonight)
 
 ---
 
-## ⚡ Fun Fact
-When I'm not coding, I enjoy **learning about electronics, IoT devices, and optimizing embedded systems**.  
-
+“Talk is cheap. Show me the code.” - Linus Torvald
