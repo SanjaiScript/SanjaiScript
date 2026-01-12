@@ -24,6 +24,15 @@ Currently honing my skills at Emertxe Bangalore, focusing on C, C++, Linux kerne
 
 ---
 
+## 🎯 Current Focus
+- **Linux Kernel & Device Drivers** – Understanding OS-hardware interactions  
+- **RTOS & Low-Power Firmware** – Efficient real-time embedded systems  
+- **Embedded System Optimization & Debugging** – Improving performance and reliability  
+- **C & C++ System Programming** – Strengthening low-level programming skills  
+- **Microcontroller Integration** – Developing firmware for peripherals and devices  
+
+---
+
 ## 📬 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sanjaimkumar1223@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SanjaiScript)
