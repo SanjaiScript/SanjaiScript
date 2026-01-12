@@ -40,7 +40,7 @@ I enjoy building firmware, debugging system-level issues, and learning how softw
   </a>
 </p>
 
-
+---
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SanjaiScript&show_icons=true)
 
