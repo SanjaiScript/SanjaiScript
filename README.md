@@ -19,11 +19,13 @@ I enjoy building firmware, debugging system-level issues, and learning how softw
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** C, C++
-- **OS:** Linux
-- **Debugging:** GDB
-- **Build Tools:** Makefile
-- **Version Control:** Git, GitHub
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Embedded](https://img.shields.io/badge/Embedded-green)
+![Firmware](https://img.shields.io/badge/Firmware-purple)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
 ---
 ## 📬 Contact Me
