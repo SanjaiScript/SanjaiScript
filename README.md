@@ -7,10 +7,9 @@
 ---
 
 ## 🚀 About Me
-I’m an **Embedded Systems Trainee** passionate about **low-level programming, Linux internals, and firmware development**.  
-I enjoy **building efficient embedded solutions, debugging system-level issues, and exploring hardware-software interactions**.
-
-Currently, I am training at **Emertxe Bangalore**, focusing on **C, C++, Linux kernel, device drivers, and firmware projects**.
+I’m an Embedded Systems Trainee with a passion for low-level programming, Linux internals, and firmware development.
+I love solving system-level challenges, optimizing code for hardware, and building reliable embedded solutions.
+Currently honing my skills at Emertxe Bangalore, focusing on C, C++, Linux kernel, device drivers, and microcontroller firmware.
 
 ---
 
@@ -22,20 +21,6 @@ Currently, I am training at **Emertxe Bangalore**, focusing on **C, C++, Linux k
 ![Firmware](https://img.shields.io/badge/Firmware-purple)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
-![RTOS](https://img.shields.io/badge/RTOS-blueviolet)
-
----
-
-## 📂 Projects
-- **MiniShell – Interactive Unix-like Shell**  
-  Developed a **custom command-line shell** supporting built-in and external commands.  
-  [View on GitHub](https://github.com/SanjaiScript/MiniShell)
-
-- **Embedded Firmware Projects**  
-  Designed **microcontroller-based firmware** for sensors, peripherals, and low-power devices.
-
-- **Open Source Contributions**  
-  Worked on **Linux kernel modules** and system-level debugging tools.
 
 ---
 
