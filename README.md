@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I’m an Embedded Systems Trainee with a passion for low-level programming, Linux internals, and firmware development.
+I’m an Embedded Systems Engineer with a passion for low-level programming, Linux internals, and firmware development.
 I love solving system-level challenges, optimizing code for hardware, and building reliable embedded solutions.
 Currently honing my skills at Emertxe Bangalore, focusing on C, C++, Linux kernel, device drivers, and microcontroller firmware.
 
